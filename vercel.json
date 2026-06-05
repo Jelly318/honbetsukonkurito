@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/((?!google536c7d857493aa13\\.html).*)",
+      "source": "/(.*)",
       "destination": "https://honbetsu-concrete.asahi-ai-app.com/$1",
       "permanent": true
     }
